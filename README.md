@@ -10,3 +10,6 @@
 7. After training your model on colab code you can simply download model.tflite file
 8. Open that file in android studio you will be able to edit the code.
 
+
+https://colab.research.google.com/drive/1DFLkJwOYWko12rC8Jpd9ovgUxaW2qnLc?usp=sharing.... Link for google collab code
+
